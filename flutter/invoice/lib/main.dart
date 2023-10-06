@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'calendar.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(CalendarioApp());
 }
 
 class MyApp extends StatelessWidget {
